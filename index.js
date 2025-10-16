@@ -11,7 +11,7 @@ http.createServer(function(req, res) {
         <title>My Page</title>
       </head>
       <body>
-        <h1>Hi my name is Nabeel Hamza</h1>
+        <h1>Hi my name is Nabeel H</h1>
         <h2>I am an aspiring computer scientist studying at goldsmiths university</h2>
         <p>I am currently in my final year.</p>
         <p>Outside of my studies I enjoy playing sports.</p>
